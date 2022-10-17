@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "google-translate-demo",
-    "slug": "google-translate-demo",
+    "name": "translate-demo",
+    "slug": "translate-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
